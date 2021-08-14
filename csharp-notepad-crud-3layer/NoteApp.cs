@@ -7,6 +7,8 @@ using System.IO;
 using Persistence.Repositories;
 using Domain.Services;
 using Persistence.Models; // models should be under domain (Services)
+using Persistence;
+using Domain;
 
 namespace csharp_notepad_crud_3layer
 {
@@ -19,7 +21,9 @@ namespace csharp_notepad_crud_3layer
             _notesService = notesService;
         }
 
-        public NoteApp() { }
+        public NoteApp()
+        {
+        }
 
         public void Start()
         {
@@ -45,19 +49,23 @@ namespace csharp_notepad_crud_3layer
                         foreach (var note in allNotes)
                         {
                             Console.WriteLine(note);
+                            /*                            Console.WriteLine(note.Id);
+                                                        Console.WriteLine(note.Text);
+                                                        Console.WriteLine(note.Title);
+                                                        Console.WriteLine(note.DateCreated);*/
                         }
                         break;
 
                     case "2":
-                        Console.WriteLine("Enter note ID");
-                        id = Convert.ToInt32(Console.ReadLine());
+                        //Console.WriteLine("Enter note ID");
+                        //id = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("Enter note Title:");
                         title = Console.ReadLine();
                         Console.WriteLine("Enter note Text: ");
                         text = Console.ReadLine();
                         _notesService.Create(new Note
                         {
-                            Id = id,
+                            //Id = id,
                             Title = title,
                             Text = text,
                             DateCreated = DateTime.Now

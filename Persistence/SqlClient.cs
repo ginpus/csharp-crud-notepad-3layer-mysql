@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using Dapper;
+using Persistence;
+using Persistence.Models;
+using Persistence.Repositories;
 
 namespace Persistence
 {

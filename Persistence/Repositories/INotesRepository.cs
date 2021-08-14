@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Persistence.Models;
+using Persistence;
+using Persistence.Repositories;
 
 namespace Persistence.Repositories
 {

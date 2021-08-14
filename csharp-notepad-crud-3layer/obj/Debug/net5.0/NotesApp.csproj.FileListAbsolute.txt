@@ -41,3 +41,46 @@ F:\Desktop\dotNET\C#\8.3\csharp-notepad-crud-3layer\bin\Debug\net5.0\runtimes\un
 F:\Desktop\dotNET\C#\8.3\csharp-notepad-crud-3layer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 F:\Desktop\dotNET\C#\8.3\csharp-notepad-crud-3layer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 F:\Desktop\dotNET\C#\8.3\csharp-notepad-crud-3layer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\NotesApp.exe
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\NotesApp.deps.json
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\NotesApp.runtimeconfig.json
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\NotesApp.runtimeconfig.dev.json
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\NotesApp.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\ref\NotesApp.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\NotesApp.pdb
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Dapper.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Google.Protobuf.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\MySql.Data.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Zstandard.Net.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\System.Security.Permissions.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\System.Windows.Extensions.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Domain.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Persistence.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Domain.pdb
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\bin\Debug\net5.0\Persistence.pdb
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\obj\Debug\net5.0\NotesApp.csproj.AssemblyReference.cache
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\obj\Debug\net5.0\NotesApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\obj\Debug\net5.0\NotesApp.AssemblyInfoInputs.cache
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\obj\Debug\net5.0\NotesApp.AssemblyInfo.cs
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\obj\Debug\net5.0\NotesApp.csproj.CoreCompileInputs.cache
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\obj\Debug\net5.0\NotesApp.csproj.CopyComplete
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\obj\Debug\net5.0\NotesApp.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\obj\Debug\net5.0\ref\NotesApp.dll
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\obj\Debug\net5.0\NotesApp.pdb
+F:\Desktop\dotNET\C#\8.14 (isqlclient)\csharp-notepad-crud-3layer\obj\Debug\net5.0\NotesApp.genruntimeconfig.cache

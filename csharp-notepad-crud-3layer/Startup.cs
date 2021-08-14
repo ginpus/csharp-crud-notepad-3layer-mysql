@@ -1,8 +1,10 @@
-﻿using Domain.Services;
+﻿using Persistence;
+using Persistence.Models;
+using Persistence.Repositories;
+using Domain;
+using Domain.Services;
 using Microsoft.Extensions.DependencyInjection;
 using MySql.Data.MySqlClient;
-using Persistence;
-using Persistence.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,10 +18,6 @@ namespace csharp_notepad_crud_3layer
         public IServiceProvider ConfigureServices()
         {
             var services = new ServiceCollection();
-
-            //services.AddSingleton<IFileClient, FileClient>(); // Singleton ~ Static. When IFileClient is requested, FileClient will always be returned
-
-            //services.AddTransient<IFileClient, FileClient>(); // everytime a new object gets created. Relevant, when number of clients could be using same class
 
             AddSql(services);
 
