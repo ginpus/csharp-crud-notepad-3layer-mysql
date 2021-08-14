@@ -9,10 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "..\Persisten
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "..\Domain\Domain.csproj", "{8929913D-2721-4E24-9035-AAFD97695DD1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningNuget", "..\LearningNuget\LearningNuget.csproj", "{CB646D69-402A-464A-8BBD-F974DBDD6BD1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBconn", "..\DBconn\DBconn.csproj", "{2C364723-BC6A-4ABE-B4B2-A85AF438D47A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,14 +27,6 @@ Global
 		{8929913D-2721-4E24-9035-AAFD97695DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8929913D-2721-4E24-9035-AAFD97695DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8929913D-2721-4E24-9035-AAFD97695DD1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CB646D69-402A-464A-8BBD-F974DBDD6BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CB646D69-402A-464A-8BBD-F974DBDD6BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CB646D69-402A-464A-8BBD-F974DBDD6BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CB646D69-402A-464A-8BBD-F974DBDD6BD1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2C364723-BC6A-4ABE-B4B2-A85AF438D47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C364723-BC6A-4ABE-B4B2-A85AF438D47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C364723-BC6A-4ABE-B4B2-A85AF438D47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C364723-BC6A-4ABE-B4B2-A85AF438D47A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

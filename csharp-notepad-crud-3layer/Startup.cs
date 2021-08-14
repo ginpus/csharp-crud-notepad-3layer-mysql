@@ -19,9 +19,9 @@ namespace csharp_notepad_crud_3layer
 
             //services.AddSingleton<IFileClient, FileClient>(); // Singleton ~ Static. When IFileClient is requested, FileClient will always be returned
 
-            services.AddTransient<IFileClient, FileClient>(); // everytime a new object gets created. Relevant, when number of clients could be using same class
+            //services.AddTransient<IFileClient, FileClient>(); // everytime a new object gets created. Relevant, when number of clients could be using same class
 
-            //AddSql(services);
+            AddSql(services);
 
             services.AddSingleton<INotesRepository, NotesRepository>();
             services.AddSingleton<INotesService, NotesService>();
