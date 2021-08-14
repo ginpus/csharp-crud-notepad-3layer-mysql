@@ -1,0 +1,12 @@
+F:\Desktop\dotNET\C#\8.3\Persistence\bin\Debug\net5.0\Persistence.deps.json
+F:\Desktop\dotNET\C#\8.3\Persistence\bin\Debug\net5.0\Persistence.dll
+F:\Desktop\dotNET\C#\8.3\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+F:\Desktop\dotNET\C#\8.3\Persistence\bin\Debug\net5.0\Persistence.pdb
+F:\Desktop\dotNET\C#\8.3\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+F:\Desktop\dotNET\C#\8.3\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\dotNET\C#\8.3\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+F:\Desktop\dotNET\C#\8.3\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+F:\Desktop\dotNET\C#\8.3\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+F:\Desktop\dotNET\C#\8.3\Persistence\obj\Debug\net5.0\Persistence.dll
+F:\Desktop\dotNET\C#\8.3\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+F:\Desktop\dotNET\C#\8.3\Persistence\obj\Debug\net5.0\Persistence.pdb

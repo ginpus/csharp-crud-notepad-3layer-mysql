@@ -1,0 +1,4 @@
+{"Id":1,"Title":"Updated title","Text":"Updated text","DateCreated":"2021-08-11T21:31:32.0474309+03:00"}
+{"Id":2,"Title":"Second note now updated","Text":"This is a text which was updated via UI","DateCreated":"2021-08-11T21:37:05.5322193+03:00"}
+{"Id":4,"Title":"yet another","Text":"note out there","DateCreated":"2021-08-12T11:57:19.7846897+03:00"}
+{"Id":5,"Title":"fith","Text":"note","DateCreated":"2021-08-12T22:07:13.9258389+03:00"}

@@ -1,0 +1,15 @@
+F:\Desktop\dotNET\C#\8.3\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\Desktop\dotNET\C#\8.3\Domain\bin\Debug\net5.0\Domain.dll
+F:\Desktop\dotNET\C#\8.3\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\Desktop\dotNET\C#\8.3\Domain\bin\Debug\net5.0\Domain.pdb
+F:\Desktop\dotNET\C#\8.3\Domain\bin\Debug\net5.0\Persistence.dll
+F:\Desktop\dotNET\C#\8.3\Domain\bin\Debug\net5.0\Persistence.pdb
+F:\Desktop\dotNET\C#\8.3\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+F:\Desktop\dotNET\C#\8.3\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\dotNET\C#\8.3\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\Desktop\dotNET\C#\8.3\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\Desktop\dotNET\C#\8.3\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\Desktop\dotNET\C#\8.3\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+F:\Desktop\dotNET\C#\8.3\Domain\obj\Debug\net5.0\Domain.dll
+F:\Desktop\dotNET\C#\8.3\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\Desktop\dotNET\C#\8.3\Domain\obj\Debug\net5.0\Domain.pdb

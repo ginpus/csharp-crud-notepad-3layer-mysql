@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LearningNuget</id>
+    <version>1.0.0</version>
+    <authors>LearningNuget</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Faker.Net" version="1.5.138" exclude="Build,Analyzers" />
+        <dependency id="Humanizer" version="2.11.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Desktop\dotNET\C#\8.3\LearningNuget\bin\Debug\net5.0\LearningNuget.runtimeconfig.json" target="lib\net5.0\LearningNuget.runtimeconfig.json" />
+    <file src="F:\Desktop\dotNET\C#\8.3\LearningNuget\bin\Debug\net5.0\LearningNuget.dll" target="lib\net5.0\LearningNuget.dll" />
+  </files>
+</package>
