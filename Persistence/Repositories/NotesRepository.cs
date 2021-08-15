@@ -36,7 +36,7 @@ namespace Persistence.Repositories
             {
                 title = note.Title,
                 text = note.Text,
-                date_created = note.DateCreated
+                date_created = note.Date_Created
             });
             //_sqlClient.Execute(sqlInsert, note);
         }

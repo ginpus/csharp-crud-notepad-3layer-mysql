@@ -9,16 +9,16 @@ using Persistence.Repositories;
 
 namespace Persistence.Models
 {
-    public class Note
+    public class Note //names of fields match names of fields in SQL DB
     {
-        public int Id { get; set; }
+        public int Note_Id { get; set; }
         public string Title { get; set; }
         public string Text { get; set; }
-        public DateTime DateCreated { get; set; }
+        public DateTime Date_Created { get; set; }
 
         public override string ToString()
         {
-            return $"{Id} {Title} {Text} {DateCreated}";
+            return $"{Note_Id} {Title} {Text} {Date_Created}";
         }
     }
 }

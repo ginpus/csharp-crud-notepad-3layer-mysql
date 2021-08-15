@@ -68,7 +68,7 @@ namespace csharp_notepad_crud_3layer
                             //Id = id,
                             Title = title,
                             Text = text,
-                            DateCreated = DateTime.Now
+                            Date_Created = DateTime.Now
                         });
                         break;
 
